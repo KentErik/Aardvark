@@ -7,6 +7,7 @@ public class RunningAdsScript : MonoBehaviour {
 	void Start () {
         print("Hello world!");
 		print ("Hello from Mac World!!");
+        print("Hello back to you!!");
 	}
 	
 	// Update is called once per frame
